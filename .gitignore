@@ -1,1 +1,5 @@
 venv/
+
+no_black_box/data/dataset/*
+no_black_box/data/models/
+no_black_box/node/node_modules/
